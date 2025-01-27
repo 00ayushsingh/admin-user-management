@@ -1,3 +1,7 @@
+![Repo Size](https://img.shields.io/github/repo-size/00ayushsingh/admin-user-management?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js)
+
 A Task Management System where an Admin can add users to a portal, and users must upload authentication documents for verification. The project includes Swagger API documentation, Docker support, and a MongoDB database.
 
 ## Features:
